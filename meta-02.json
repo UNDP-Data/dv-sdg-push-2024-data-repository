@@ -1,0 +1,112 @@
+[
+  {
+      "id": "ChildMort5Yrs",
+      "name": "Mortality Rate of Children Under 5",
+      "units": "deaths per 1,000"
+  },
+  {
+      "id": "POVCOUNT",
+      "name": "Female Poverty Headcount",
+      "units": "mil people"
+  },
+  {
+      "id": "SanitAccessImpNumb",
+      "name": "Access to Improved Sanitation",
+      "units": "millions"
+  },
+  {
+      "id": "Sanitation%Improved",
+      "name": "Access to Improved Sanitation",
+      "units": "percent"
+  },
+  {
+      "id": "WatSafImpNumb",
+      "name": "Access to Improved Water",
+      "units": "millions"
+  },
+  {
+      "id": "Water%Improved",
+      "name": "Access to Improved Water",
+      "units": "percent"
+  },
+  {
+      "id": "MALNCHIL",
+      "name": "Malnourished Children Under 5",
+      "units": "millions"
+  },
+  {
+      "id": "MALNCHP",
+      "name": "Malnourished Children Under 5",
+      "units": "percent"
+  },
+  {
+      "id": "MalnPop",
+      "name": "Malnourished Population",
+      "units": "millions"
+  },
+  {
+      "id": "MALNPOPP",
+      "name": "Malnourished Population",
+      "units": "percent"
+  },
+  {
+      "id": "MATMORTRATIO",
+      "name": "Maternal Mortality Ratio",
+      "units": "ratio"
+  },
+  {
+      "id": "NEONATMOR",
+      "name": "Neonatal Mortality Rate",
+      "units": "per thousand"
+  },
+  {
+      "id": "INCOMELT190LN",
+      "name": "Poverty Headcount (<$1.90 per day)",
+      "units": "millions"
+  },
+  {
+      "id": "PovPerc190HF",
+      "name": "Poverty Rate (<$1.90 per day)",
+      "units": "percent of population"
+  },
+  {
+      "id": "EDPRICR",
+      "name": "Primary Education Gross Completion Rate",
+      "units": "percent"
+  },
+  {
+      "id": "EDSECUPPRGRATE",
+      "name": "Secondary Education Gross Completion Rate",
+      "units": "percent"
+  },
+  {
+      "id": "POVCOUNT",
+      "name": "Poverty Headcount, Sex Difference by Age",
+      "units": "percent"
+  },
+  {
+      "id": "POVRATE",
+      "name": "Poverty Rate, Sex Difference (Female minus Male)",
+      "units": "percent"
+  },
+  {
+      "id": "POVCOUNT",
+      "name": "Poverty Headcount Ratio, Female to Male by Age",
+      "units": "ratio"
+  },
+  {
+      "id": "POVCOUNT",
+      "name": "Poverty Headcount, Sex Difference (Female minus Male, Age 25-34)",
+      "units": "millions"
+  },
+  {
+      "id": "POVRATE",
+      "name": "Poverty Rate, Sex Difference (Female minus Male, Age 25-34)",
+      "units": "percent"
+  },
+  {
+      "id": "HLSTUNTCHL",
+      "name": "Stunted Children Under 5",
+      "units": "rate"
+  }
+]
