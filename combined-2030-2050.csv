@@ -1,0 +1,177 @@
+Year,indicator,description,hdi group,SDG Push No,JETSDG9,Base
+2030,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI High,10.7,10.61,11.07
+2050,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI High,6.50,6.35,7.41
+2030,POVCOUNTF,Female poverty headcount (number of people) ,HDI High,24.02,23.05,28.39
+2050,POVCOUNTF,Female poverty headcount (number of people) ,HDI High,10.91,9.26,17.57
+2030,SanitAccessImpNumb,Improved sanitation access (number of people),HDI High,3012,3024,2963
+2050,SanitAccessImpNumb,Improved sanitation access (number of people),HDI High,3131,3130,3043
+2030,Sanitation%Improved,Improved sanitation access (percent),HDI High,97.19,97.6,95.58
+2050,Sanitation%Improved,Improved sanitation access (percent),HDI High,100,100,97.01
+2030,WatSafImpNumb,Improved water access (number of people),HDI High,3038,3044,3008
+2050,WatSafImpNumb,Improved water access (number of people),HDI High,3131,3130,3080
+2030,Water%Improved,Improved water access (percent) ,HDI High,98,98.25,97.04
+2050,Water%Improved,Improved water access (percent) ,HDI High,100,100,98.21
+2030,MALNCHIL,Malnourished children under 5 (number of children),HDI High,9.69,9.55,10.06
+2050,MALNCHIL,Malnourished children under 5 (number of children),HDI High,5.82,5.80,6.41
+2030,MALNCHP,Malnourished children under 5 (percent) ,HDI High,5.44,5.39,5.64
+2050,MALNCHP,Malnourished children under 5 (percent) ,HDI High,3.76,3.75,4.04
+2030,MalnPop,Malnourished population (number of people),HDI High,39.39,37.28,50.39
+2050,MalnPop,Malnourished population (number of people),HDI High,4.69,4.34,18.91
+2030,MALNPOPP,Malnourished population (percent) ,HDI High,1.27,1.20,1.63
+2050,MALNPOPP,Malnourished population (percent) ,HDI High,0.15,0.14,0.60
+2030,MATMORTRATIO,Maternal mortality (ratio),HDI High,46.35,45.92,47.2
+2050,MATMORTRATIO,Maternal mortality (ratio),HDI High,24.99,24.58,26.15
+2030,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI High,7.1695,6.9365,6.9888
+2050,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI High,4.6480,4.0619,4.1467
+2030,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI High,40.65,38.84,48.22
+2050,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI High,19.95,16.22,32.26
+2030,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI High,1.31157,1.25348,1.55571
+2050,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI High,0.63702,0.51814,1.02874
+2030,EDPRICR,Primary education gross completion rate (percent) ,HDI High,100.9,101.4,101.3
+2050,EDPRICR,Primary education gross completion rate (percent) ,HDI High,99.97,100,100
+2030,EDSECPER,Secondary education gross completion rate (percent) ,HDI High,46.23,46.4,46.36
+2050,EDSECPER,Secondary education gross completion rate (percent) ,HDI High,58.72,59.96,59.82
+2030,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI High,56.49,46.27,48.13
+2050,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI High,35.91,18.44,21.78
+2030,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI High,1.55274,1.49329,1.82256
+2050,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI High,0.69569,0.58919,1.14494
+2030,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI High,0.99674,0.99283,1.01011
+2050,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI High,1.00286,1.00896,0.95843
+2030,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI High,1.06392,1.06167,1.0704
+2050,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI High,0.96386,0.97398,0.93298
+2030,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI High,1.49061,1.4348,1.74657
+2050,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI High,0.65927,0.56159,1.08616
+2030,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI High,11.57,11.49,11.79
+2050,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI High,6.73394,6.67257,7.41367
+2030,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Low,57.68,57.36,60.24
+2050,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Low,32.73,31.91,38.15
+2030,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,208.6,207.4,216.2
+2050,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,137.7,132.4,193
+2030,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Low,745.4,760.1,682.6
+2050,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Low,1914,1919,1389
+2030,Sanitation%Improved,Improved sanitation access (percent),HDI Low,57.54,58.7,52.68
+2050,Sanitation%Improved,Improved sanitation access (percent),HDI Low,94.92,95.53,67.45
+2030,WatSafImpNumb,Improved water access (number of people),HDI Low,1070,1079,1034
+2050,WatSafImpNumb,Improved water access (number of people),HDI Low,1994,1990,1794
+2030,Water%Improved,Improved water access (percent) ,HDI Low,82.57,83.29,79.77
+2050,Water%Improved,Improved water access (percent) ,HDI Low,98.88,99.05,87.11
+2030,MALNCHIL,Malnourished children under 5 (number of children),HDI Low,31.09,30.89,32.57
+2050,MALNCHIL,Malnourished children under 5 (number of children),HDI Low,17.84,17.44,23.03
+2030,MALNCHP,Malnourished children under 5 (percent) ,HDI Low,15.98,15.92,16.71
+2050,MALNCHP,Malnourished children under 5 (percent) ,HDI Low,8.1103,8.03979,9.53293
+2030,MalnPop,Malnourished population (number of people),HDI Low,180.9,176.5,215.7
+2050,MalnPop,Malnourished population (number of people),HDI Low,86.74,84.17,171.2
+2030,MALNPOPP,Malnourished population (percent) ,HDI Low,13.97,13.63,16.65
+2050,MALNPOPP,Malnourished population (percent) ,HDI Low,4.30154,4.19017,8.31218
+2030,MATMORTRATIO,Maternal mortality (ratio),HDI Low,410,409.1,412.6
+2050,MATMORTRATIO,Maternal mortality (ratio),HDI Low,170.1,167.9,181.6
+2030,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Low,23.54,22.55,22.65
+2050,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Low,14.62,12.35,12.67
+2030,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Low,486.5,483.8,500.9
+2050,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Low,343.6,331.1,465.1
+2030,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Low,37.55,37.36,38.66
+2050,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Low,17.04,16.48,22.58
+2030,EDPRICR,Primary education gross completion rate (percent) ,HDI Low,78.13,79.19,78.93
+2050,EDPRICR,Primary education gross completion rate (percent) ,HDI Low,89.22,91.83,91.54
+2030,EDSECPER,Secondary education gross completion rate (percent) ,HDI Low,18.29,18.51,18.46
+2050,EDSECPER,Secondary education gross completion rate (percent) ,HDI Low,24.07,26.27,26.13
+2030,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,430.6,413,415.5
+2050,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,385.1,264,274.5
+2030,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,32.07,31.9,33.24
+2050,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,13.61,13.14,18.7
+2030,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00809,1.00818,1.00807
+2050,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00563,1.00627,1.00416
+2030,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09992,1.10032,1.09817
+2050,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.107,1.10795,1.09485
+2030,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,29.06,28.9,30.1
+2050,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,12.73,12.29,17.41
+2030,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Low,27.85,27.78,28.45
+2050,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Low,15.02,14.93,16.69
+2030,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Medium,26.08,25.99,27.39
+2050,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Medium,13.84,13.49,16.8
+2030,POVCOUNTF,Female poverty headcount (number of people) ,HDI Medium,89.91,87.09,102.7
+2050,POVCOUNTF,Female poverty headcount (number of people) ,HDI Medium,35.15,34.33,53.6
+2030,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Medium,2242,2270,2148
+2050,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Medium,2948,2944,2666
+2030,Sanitation%Improved,Improved sanitation access (percent),HDI Medium,87.38,88.52,83.67
+2050,Sanitation%Improved,Improved sanitation access (percent),HDI Medium,99.82,99.85,89.67
+2030,WatSafImpNumb,Improved water access (number of people),HDI Medium,2461,2465,2435
+2050,WatSafImpNumb,Improved water access (number of people),HDI Medium,2951,2946,2879
+2030,Water%Improved,Improved water access (percent) ,HDI Medium,95.9,96.14,94.82
+2050,Water%Improved,Improved water access (percent) ,HDI Medium,99.93,99.95,96.83
+2030,MALNCHIL,Malnourished children under 5 (number of children),HDI Medium,36.32,35.66,38.01
+2050,MALNCHIL,Malnourished children under 5 (number of children),HDI Medium,18.05,17.85,20.32
+2030,MALNCHP,Malnourished children under 5 (percent) ,HDI Medium,16.74,16.6,17.39
+2050,MALNCHP,Malnourished children under 5 (percent) ,HDI Medium,9.48277,9.44714,10.15
+2030,MalnPop,Malnourished population (number of people),HDI Medium,186.1,179.2,225.4
+2050,MalnPop,Malnourished population (number of people),HDI Medium,27.58,26.78,75.75
+2030,MALNPOPP,Malnourished population (percent) ,HDI Medium,7.25334,6.98724,8.78054
+2050,MALNPOPP,Malnourished population (percent) ,HDI Medium,0.93396,0.90833,2.54726
+2030,MATMORTRATIO,Maternal mortality (ratio),HDI Medium,96.56,95.66,98.09
+2050,MATMORTRATIO,Maternal mortality (ratio),HDI Medium,40.68,40.37,42.42
+2030,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Medium,20.51,19.75,19.86
+2050,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Medium,11.88,9.92797,10.13
+2030,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Medium,137,133,156.7
+2050,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Medium,64.32,62.88,94.01
+2030,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Medium,5.33875,5.18516,6.10404
+2050,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Medium,2.17788,2.13286,3.16136
+2030,EDPRICR,Primary education gross completion rate (percent) ,HDI Medium,95.52,96.18,96.09
+2050,EDPRICR,Primary education gross completion rate (percent) ,HDI Medium,98.84,99.57,99.51
+2030,EDSECPER,Secondary education gross completion rate (percent) ,HDI Medium,36.48,36.78,36.74
+2050,EDSECPER,Secondary education gross completion rate (percent) ,HDI Medium,44.46,46.65,46.53
+2030,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Medium,192.4,161.7,167.3
+2050,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Medium,102.2,65.61,67.42
+2030,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Medium,6.52077,6.30606,7.49512
+2050,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Medium,2.28298,2.2255,3.43691
+2030,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Medium,1.16145,1.16753,1.14451
+2050,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Medium,1.08942,1.09741,1.10282
+2030,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Medium,1.53976,1.55757,1.46671
+2050,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Medium,1.22936,1.22531,1.29845
+2030,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Medium,5.26862,5.10902,6.02495
+2050,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Medium,1.90662,1.87101,2.8909
+2030,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Medium,25.29,25.23,25.65
+2050,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Medium,15.45,15.42,16.4
+2030,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Very High,4.28932,4.27164,4.33537
+2050,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Very High,2.78299,2.72489,3.01909
+2030,POVCOUNTF,Female poverty headcount (number of people) ,HDI Very High,1.33432,1.2443,2.24478
+2050,POVCOUNTF,Female poverty headcount (number of people) ,HDI Very High,0.05819,0.05254,0.3077
+2030,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Very High,1617,1619,1608
+2050,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Very High,1618,1619,1601
+2030,Sanitation%Improved,Improved sanitation access (percent),HDI Very High,99.3,99.41,98.75
+2050,Sanitation%Improved,Improved sanitation access (percent),HDI Very High,100,100,99.14
+2030,WatSafImpNumb,Improved water access (number of people),HDI Very High,1624,1625,1619
+2050,WatSafImpNumb,Improved water access (number of people),HDI Very High,1618,1619,1609
+2030,Water%Improved,Improved water access (percent) ,HDI Very High,99.71,99.76,99.46
+2050,Water%Improved,Improved water access (percent) ,HDI Very High,100,100,99.64
+2030,MALNCHIL,Malnourished children under 5 (number of children),HDI Very High,2.00541,1.99422,2.0458
+2050,MALNCHIL,Malnourished children under 5 (number of children),HDI Very High,1.6195,1.6187,1.67636
+2030,MALNCHP,Malnourished children under 5 (percent) ,HDI Very High,2.50299,2.49353,2.55019
+2050,MALNCHP,Malnourished children under 5 (percent) ,HDI Very High,2.17655,2.17635,2.23261
+2030,MalnPop,Malnourished population (number of people),HDI Very High,3.6838,3.48599,4.81943
+2050,MalnPop,Malnourished population (number of people),HDI Very High,0.37921,0.33168,2.07117
+2030,MALNPOPP,Malnourished population (percent) ,HDI Very High,0.22622,0.21407,0.296
+2050,MALNPOPP,Malnourished population (percent) ,HDI Very High,0.02343,0.02049,0.12829
+2030,MATMORTRATIO,Maternal mortality (ratio),HDI Very High,13.39,13.39,13.41
+2050,MATMORTRATIO,Maternal mortality (ratio),HDI Very High,9.06802,9.06718,9.097
+2030,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Very High,2.8818,2.84844,2.85806
+2050,NEONATMOR,Neonatal mortality rate (number of neonatal deaths per 1000 live births),HDI Very High,1.92066,1.76711,1.79609
+2030,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Very High,2.96278,2.81213,4.50966
+2050,INCOMELT190LN,Poverty <$1.90 per day (number of people),HDI Very High,0.17637,0.15813,0.95112
+2030,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Very High,0.18194,0.17269,0.27698
+2050,PovPerc190HF,Poverty <$1.90 per day (percent of population),HDI Very High,0.0109,0.00977,0.05891
+2030,EDPRICR,Primary education gross completion rate (percent) ,HDI Very High,101,101,101
+2050,EDPRICR,Primary education gross completion rate (percent) ,HDI Very High,100,100,100
+2030,EDSECPER,Secondary education gross completion rate (percent) ,HDI Very High,76.62,76.68,76.67
+2050,EDSECPER,Secondary education gross completion rate (percent) ,HDI Very High,82.09,82.49,82.43
+2030,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Very High,5.31281,3.32717,3.5104
+2050,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Very High,1.1803,0.21513,0.23786
+2030,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Very High,0.21557,0.20432,0.3263
+2050,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Very High,0.0147,0.01329,0.07311
+2030,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Very High,0.61318,0.5974,0.73167
+2050,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Very High,0.32388,0.32316,0.35262
+2030,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Very High,1.05985,1.04713,1.08789
+2050,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Very High,1.73366,1.85152,1.03299
+2030,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Very High,0.23358,0.22167,0.35286
+2050,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Very High,0.01489,0.01345,0.07463
+2030,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Very High,4.05816,4.04495,4.08837
+2050,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Very High,3.03328,3.02501,3.10435
