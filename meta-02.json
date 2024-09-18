@@ -75,7 +75,7 @@
       "units": "percent"
   },
   {
-      "id": "EDSECUPPRGRATE",
+      "id": "EDSECPER",
       "name": "Secondary Education Gross Completion Rate",
       "units": "percent"
   },
@@ -95,12 +95,12 @@
       "units": "ratio"
   },
   {
-      "id": "POVCOUNTSDF",
+      "id": "POVCOUNT25",
       "name": "Poverty Headcount, Sex Difference (Female minus Male, Age 25-34), millions",
       "units": "millions"
   },
   {
-      "id": "POVRATE25-34",
+      "id": "POVRATESD",
       "name": "Poverty Rate, Sex Difference (Female minus Male, Age 25-34), percent",
       "units": "percent"
   },
