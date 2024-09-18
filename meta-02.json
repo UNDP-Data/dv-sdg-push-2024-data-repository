@@ -5,7 +5,7 @@
       "units": "deaths per 1,000"
   },
   {
-      "id": "POVCOUNT",
+      "id": "POVCOUNTF",
       "name": "Female Poverty Headcount",
       "units": "mil people"
   },
@@ -80,7 +80,7 @@
       "units": "percent"
   },
   {
-      "id": "POVCOUNT",
+      "id": "POVCOUNTSD",
       "name": "Poverty Headcount, Sex Difference by Age",
       "units": "percent"
   },
@@ -90,17 +90,17 @@
       "units": "percent"
   },
   {
-      "id": "POVCOUNT",
+      "id": "POVCOUNTR",
       "name": "Poverty Headcount Ratio, Female to Male by Age",
       "units": "ratio"
   },
   {
-      "id": "POVCOUNT",
+      "id": "POVCOUNTSDF",
       "name": "Poverty Headcount, Sex Difference (Female minus Male, Age 25-34)",
       "units": "millions"
   },
   {
-      "id": "POVRATE",
+      "id": "POVRATE25-34",
       "name": "Poverty Rate, Sex Difference (Female minus Male, Age 25-34)",
       "units": "percent"
   },
