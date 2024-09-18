@@ -7,46 +7,46 @@
   {
       "id": "POVCOUNTF",
       "name": "Female Poverty Headcount",
-      "units": "mil people"
-  },
-  {
-      "id": "SanitAccessImpNumb",
-      "name": "Access to Improved Sanitation",
       "units": "millions"
   },
   {
+      "id": "SanitAccessImpNumb",
+      "name": "Access to Improved Sanitation, millions",
+      "units": ""
+  },
+  {
       "id": "Sanitation%Improved",
-      "name": "Access to Improved Sanitation",
-      "units": "percent"
+      "name": "Access to Improved Sanitation, percent",
+      "units": ""
   },
   {
       "id": "WatSafImpNumb",
-      "name": "Access to Improved Water",
+      "name": "Access to Improved Water, millions",
       "units": "millions"
   },
   {
       "id": "Water%Improved",
-      "name": "Access to Improved Water",
+      "name": "Access to Improved Water, percent",
       "units": "percent"
   },
   {
       "id": "MALNCHIL",
-      "name": "Malnourished Children Under 5",
+      "name": "Malnourished Children Under 5, millions",
       "units": "millions"
   },
   {
       "id": "MALNCHP",
-      "name": "Malnourished Children Under 5",
+      "name": "Malnourished Children Under 5, percent",
       "units": "percent"
   },
   {
       "id": "MalnPop",
-      "name": "Malnourished Population",
+      "name": "Malnourished Population, millions",
       "units": "millions"
   },
   {
       "id": "MALNPOPP",
-      "name": "Malnourished Population",
+      "name": "Malnourished Population, percent",
       "units": "percent"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
       "id": "INCOMELT190LN",
-      "name": "Poverty Headcount (<$1.90 per day)",
+      "name": "Poverty Headcount (<$1.90 per day), millions",
       "units": "millions"
   },
   {
       "id": "PovPerc190HF",
-      "name": "Poverty Rate (<$1.90 per day)",
+      "name": "Poverty Rate (<$1.90 per day), percent",
       "units": "percent of population"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
       "id": "POVCOUNTSDF",
-      "name": "Poverty Headcount, Sex Difference (Female minus Male, Age 25-34)",
+      "name": "Poverty Headcount, Sex Difference (Female minus Male, Age 25-34), millions",
       "units": "millions"
   },
   {
       "id": "POVRATE25-34",
-      "name": "Poverty Rate, Sex Difference (Female minus Male, Age 25-34)",
+      "name": "Poverty Rate, Sex Difference (Female minus Male, Age 25-34), percent",
       "units": "percent"
   },
   {

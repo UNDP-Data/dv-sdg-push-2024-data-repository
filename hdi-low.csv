@@ -81,88 +81,88 @@ Year,indicator,description,hdi group,SDG Push No,JETSDG9,Base
 2098,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Low,6.89624,6.61472,11.26
 2099,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Low,6.71492,6.44259,11
 2100,ChildMort5Yrs,Children under 5 mortality (rate per 1000 live births) ,HDI Low,6.53821,6.27492,10.79
-2019,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,177.7,177.7,177.7
-2020,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,187.8,187.8,187.8
-2021,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,191.7,191.7,191.7
-2022,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,196.3,196.3,196.3
-2023,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,205.6,205.6,205.6
-2024,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,213.4,211.7,213.4
-2025,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,215.8,214.7,217.5
-2026,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,215.3,214.7,218.1
-2027,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,212.7,212.6,216.6
-2028,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,210.5,210.6,215.5
-2029,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,209.3,209,215.5
-2030,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,208.6,207.4,216.2
-2031,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,208.1,205.4,217.4
-2032,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,207.9,203.3,219.1
-2033,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,207.4,201.1,221
-2034,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,206.2,198.9,222.7
-2035,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,204.2,196.3,224
-2036,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,201.4,193.2,224.8
-2037,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,197.9,190.8,224.9
-2038,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,194.9,188.1,224.8
-2039,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,191.7,185.2,224.3
-2040,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,188.2,181.7,223.1
-2041,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,184.1,177.6,221.7
-2042,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,179.5,172.4,220
-2043,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,174.4,166.8,217.7
-2044,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,169.2,161.3,214.9
-2045,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,163.8,155.9,211.5
-2046,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,158.3,150.9,207.8
-2047,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,152.9,146,203.8
-2048,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,147.4,141.2,199.8
-2049,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,142.5,136.7,196.2
-2050,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,137.7,132.4,193
-2051,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,133.1,128.7,190
-2052,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,128.7,125.4,187.1
-2053,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,124.4,122.1,184.4
-2054,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,119.9,115.4,181.6
-2055,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,114.9,111.1,178.9
-2056,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,110.2,106.1,175.8
-2057,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,101.8,99.79,172.4
-2058,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,97.01,92.34,168.5
-2059,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,91.15,84.52,163.3
-2060,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,84.67,77.06,156.7
-2061,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,78.06,70.26,149.6
-2062,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,71.81,64.15,142.3
-2063,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,65.99,57.75,133.6
-2064,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,58.16,50.39,127.7
-2065,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,52.59,46.02,121.2
-2066,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,48.21,41.91,115
-2067,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,44.13,38.11,109.1
-2068,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,40.35,34.71,103.4
-2069,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,36.77,31.23,95.54
-2070,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,33.17,28.33,90.03
-2071,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,30.04,25.83,85.1
-2072,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,27.24,23.61,80.04
-2073,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,24.74,21.75,75.91
-2074,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,22.64,19.59,72.05
-2075,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,20.38,17.94,68.42
-2076,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,18.63,16.4,64.96
-2077,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,16.98,15.1,61.63
-2078,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,15.59,13.66,58.36
-2079,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,14.13,12.65,55.18
-2080,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,13.05,11.66,52.1
-2081,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,12,10.6,49.09
-2082,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,10.89,8.06909,46.37
-2083,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,8.26005,7.31284,43.62
-2084,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,7.44845,6.65132,41.07
-2085,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,6.71763,6.05523,38.61
-2086,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,6.05462,5.50744,36.21
-2087,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,5.42806,4.99568,34.06
-2088,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,4.87308,4.51944,32.26
-2089,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,4.37173,4.09739,30.51
-2090,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,3.91882,3.71858,28.7
-2091,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,3.52684,3.37496,27
-2092,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,3.1911,3.06246,25.45
-2093,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,2.8985,2.77971,23.98
-2094,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,2.64355,2.15678,22.64
-2095,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,2.39612,1.94463,21.39
-2096,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,2.15327,1.75101,18.65
-2097,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,1.93344,1.56467,17.58
-2098,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,1.47669,1.397,16.51
-2099,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,1.32762,1.24903,15.58
-2100,POVCOUNT,Female poverty headcount (number of people) ,HDI Low,1.19539,1.12003,14.7
+2019,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,177.7,177.7,177.7
+2020,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,187.8,187.8,187.8
+2021,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,191.7,191.7,191.7
+2022,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,196.3,196.3,196.3
+2023,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,205.6,205.6,205.6
+2024,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,213.4,211.7,213.4
+2025,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,215.8,214.7,217.5
+2026,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,215.3,214.7,218.1
+2027,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,212.7,212.6,216.6
+2028,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,210.5,210.6,215.5
+2029,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,209.3,209,215.5
+2030,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,208.6,207.4,216.2
+2031,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,208.1,205.4,217.4
+2032,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,207.9,203.3,219.1
+2033,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,207.4,201.1,221
+2034,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,206.2,198.9,222.7
+2035,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,204.2,196.3,224
+2036,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,201.4,193.2,224.8
+2037,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,197.9,190.8,224.9
+2038,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,194.9,188.1,224.8
+2039,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,191.7,185.2,224.3
+2040,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,188.2,181.7,223.1
+2041,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,184.1,177.6,221.7
+2042,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,179.5,172.4,220
+2043,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,174.4,166.8,217.7
+2044,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,169.2,161.3,214.9
+2045,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,163.8,155.9,211.5
+2046,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,158.3,150.9,207.8
+2047,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,152.9,146,203.8
+2048,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,147.4,141.2,199.8
+2049,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,142.5,136.7,196.2
+2050,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,137.7,132.4,193
+2051,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,133.1,128.7,190
+2052,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,128.7,125.4,187.1
+2053,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,124.4,122.1,184.4
+2054,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,119.9,115.4,181.6
+2055,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,114.9,111.1,178.9
+2056,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,110.2,106.1,175.8
+2057,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,101.8,99.79,172.4
+2058,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,97.01,92.34,168.5
+2059,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,91.15,84.52,163.3
+2060,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,84.67,77.06,156.7
+2061,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,78.06,70.26,149.6
+2062,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,71.81,64.15,142.3
+2063,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,65.99,57.75,133.6
+2064,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,58.16,50.39,127.7
+2065,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,52.59,46.02,121.2
+2066,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,48.21,41.91,115
+2067,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,44.13,38.11,109.1
+2068,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,40.35,34.71,103.4
+2069,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,36.77,31.23,95.54
+2070,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,33.17,28.33,90.03
+2071,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,30.04,25.83,85.1
+2072,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,27.24,23.61,80.04
+2073,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,24.74,21.75,75.91
+2074,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,22.64,19.59,72.05
+2075,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,20.38,17.94,68.42
+2076,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,18.63,16.4,64.96
+2077,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,16.98,15.1,61.63
+2078,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,15.59,13.66,58.36
+2079,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,14.13,12.65,55.18
+2080,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,13.05,11.66,52.1
+2081,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,12,10.6,49.09
+2082,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,10.89,8.06909,46.37
+2083,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,8.26005,7.31284,43.62
+2084,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,7.44845,6.65132,41.07
+2085,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,6.71763,6.05523,38.61
+2086,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,6.05462,5.50744,36.21
+2087,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,5.42806,4.99568,34.06
+2088,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,4.87308,4.51944,32.26
+2089,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,4.37173,4.09739,30.51
+2090,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,3.91882,3.71858,28.7
+2091,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,3.52684,3.37496,27
+2092,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,3.1911,3.06246,25.45
+2093,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,2.8985,2.77971,23.98
+2094,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,2.64355,2.15678,22.64
+2095,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,2.39612,1.94463,21.39
+2096,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,2.15327,1.75101,18.65
+2097,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,1.93344,1.56467,17.58
+2098,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,1.47669,1.397,16.51
+2099,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,1.32762,1.24903,15.58
+2100,POVCOUNTF,Female poverty headcount (number of people) ,HDI Low,1.19539,1.12003,14.7
 2019,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Low,437.9,437.9,437.9
 2020,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Low,458,458,458
 2021,SanitAccessImpNumb,Improved sanitation access (number of people),HDI Low,476.6,476.6,476.6
@@ -1311,88 +1311,88 @@ Year,indicator,description,hdi group,SDG Push No,JETSDG9,Base
 2098,EDSECPER,Secondary education gross completion rate (percent) ,HDI Low,48.64,56.46,55.86
 2099,EDSECPER,Secondary education gross completion rate (percent) ,HDI Low,49.17,57.09,56.49
 2100,EDSECPER,Secondary education gross completion rate (percent) ,HDI Low,49.69,57.72,57.12
-2019,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,351.40,351.4,351.4
-2020,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,371.8,371.8,371.8
-2021,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,379.9,379.9,379.9
-2022,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,389.4,389.4,389.4
-2023,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,408.2,408.2,408.2
-2024,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,424.1,420.8,424.1
-2025,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,432.5,426.9,429.2
-2026,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,433.8,427.1,428.2
-2027,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,431.1,423.1,423.2
-2028,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,428.9,419.3,418.9
-2029,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,429,416.3,416.8
-2030,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,430.6,413,415.5
-2031,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,433.2,409.2,414.7
-2032,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,436.9,405.2,414.5
-2033,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,440.7,400.9,413.7
-2034,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,444.4,396.6,411.4
-2035,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,447.1,391.5,407.5
-2036,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,448.7,385.5,401.9
-2037,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,449.1,380.6,395
-2038,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,448.8,375.5,389.2
-2039,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,447.9,369.6,382.9
-2040,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,445.7,362.7,375.8
-2041,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,442.9,354.5,367.7
-2042,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,439.6,344.1,358.3
-2043,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,435,332.9,348.3
-2044,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,429.2,321.8,337.9
-2045,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,422.6,311.1,326.9
-2046,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,415,301.1,316
-2047,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,406.9,291.3,305
-2048,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,399,281.6,294.2
-2049,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,391.7,272.5,284.3
-2050,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,385.1,264,274.5
-2051,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,379.1,256.6,265.4
-2052,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,373.2,250,256.5
-2053,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,367.7,243.5,247.8
-2054,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,362.2,230.1,238.9
-2055,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,356.6,221.6,228.9
-2056,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,350.3,211.5,219.6
-2057,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,343.4,198.9,202.8
-2058,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,335.5,183.9,193.1
-2059,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,324.8,168,181.3
-2060,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,311.6,153,168.2
-2061,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,297.1,139.2,154.9
-2062,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,282.1,126.9,142.3
-2063,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,264.6,114,130.5
-2064,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,252.5,100,115.7
-2065,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,239.2,91.16,104.3
-2066,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,226.6,82.82,95.46
-2067,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,214.6,75.11,87.18
-2068,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,203,68.2,79.5
-2069,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,187.9,61.46,72.5
-2070,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,177.2,55.87,65.51
-2071,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,167.7,51.01,59.47
-2072,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,157.8,46.61,54.1
-2073,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,149.8,42.86,49.22
-2074,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,142.3,38.62,45.02
-2075,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,135.2,35.3,40.53
-2076,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,128.5,32.08,37.01
-2077,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,122.1,29.35,33.6
-2078,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,115.8,26.36,30.63
-2079,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,109.7,24.26,27.53
-2080,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,103.8,22.18,25.21
-2081,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,98.01,20,22.99
-2082,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,92.84,14.89,20.69
-2083,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,87.64,13.41,15.35
-2084,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,82.81,12.12,13.74
-2085,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,78.17,10.97,12.33
-2086,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,73.54,9.91951,11.06
-2087,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,69.32,8.94674,9.87092
-2088,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,65.78,8.05142,8.81885
-2089,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,62.26,7.26059,7.87627
-2090,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,58.63,6.55655,7.0442
-2091,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,55.18,5.92641,6.32717
-2092,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,51.95,5.36758,5.71228
-2093,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,48.89,4.86719,5.17577
-2094,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,46.02,3.98989,4.70694
-2095,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,43.28,3.60463,4.26061
-2096,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,37.51,3.25684,3.8281
-2097,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,35.17,2.92115,3.4407
-2098,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,32.81,2.62146,2.7915
-2099,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,30.73,2.35546,2.51497
-2100,POVCOUNT,"Poverty Headcount , Sex Difference by Age",HDI Low,28.83,2.11639,2.2645
+2019,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,351.40,351.4,351.4
+2020,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,371.8,371.8,371.8
+2021,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,379.9,379.9,379.9
+2022,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,389.4,389.4,389.4
+2023,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,408.2,408.2,408.2
+2024,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,424.1,420.8,424.1
+2025,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,432.5,426.9,429.2
+2026,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,433.8,427.1,428.2
+2027,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,431.1,423.1,423.2
+2028,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,428.9,419.3,418.9
+2029,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,429,416.3,416.8
+2030,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,430.6,413,415.5
+2031,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,433.2,409.2,414.7
+2032,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,436.9,405.2,414.5
+2033,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,440.7,400.9,413.7
+2034,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,444.4,396.6,411.4
+2035,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,447.1,391.5,407.5
+2036,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,448.7,385.5,401.9
+2037,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,449.1,380.6,395
+2038,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,448.8,375.5,389.2
+2039,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,447.9,369.6,382.9
+2040,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,445.7,362.7,375.8
+2041,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,442.9,354.5,367.7
+2042,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,439.6,344.1,358.3
+2043,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,435,332.9,348.3
+2044,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,429.2,321.8,337.9
+2045,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,422.6,311.1,326.9
+2046,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,415,301.1,316
+2047,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,406.9,291.3,305
+2048,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,399,281.6,294.2
+2049,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,391.7,272.5,284.3
+2050,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,385.1,264,274.5
+2051,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,379.1,256.6,265.4
+2052,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,373.2,250,256.5
+2053,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,367.7,243.5,247.8
+2054,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,362.2,230.1,238.9
+2055,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,356.6,221.6,228.9
+2056,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,350.3,211.5,219.6
+2057,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,343.4,198.9,202.8
+2058,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,335.5,183.9,193.1
+2059,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,324.8,168,181.3
+2060,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,311.6,153,168.2
+2061,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,297.1,139.2,154.9
+2062,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,282.1,126.9,142.3
+2063,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,264.6,114,130.5
+2064,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,252.5,100,115.7
+2065,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,239.2,91.16,104.3
+2066,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,226.6,82.82,95.46
+2067,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,214.6,75.11,87.18
+2068,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,203,68.2,79.5
+2069,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,187.9,61.46,72.5
+2070,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,177.2,55.87,65.51
+2071,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,167.7,51.01,59.47
+2072,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,157.8,46.61,54.1
+2073,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,149.8,42.86,49.22
+2074,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,142.3,38.62,45.02
+2075,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,135.2,35.3,40.53
+2076,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,128.5,32.08,37.01
+2077,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,122.1,29.35,33.6
+2078,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,115.8,26.36,30.63
+2079,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,109.7,24.26,27.53
+2080,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,103.8,22.18,25.21
+2081,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,98.01,20,22.99
+2082,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,92.84,14.89,20.69
+2083,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,87.64,13.41,15.35
+2084,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,82.81,12.12,13.74
+2085,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,78.17,10.97,12.33
+2086,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,73.54,9.91951,11.06
+2087,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,69.32,8.94674,9.87092
+2088,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,65.78,8.05142,8.81885
+2089,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,62.26,7.26059,7.87627
+2090,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,58.63,6.55655,7.0442
+2091,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,55.18,5.92641,6.32717
+2092,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,51.95,5.36758,5.71228
+2093,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,48.89,4.86719,5.17577
+2094,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,46.02,3.98989,4.70694
+2095,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,43.28,3.60463,4.26061
+2096,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,37.51,3.25684,3.8281
+2097,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,35.17,2.92115,3.4407
+2098,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,32.81,2.62146,2.7915
+2099,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,30.73,2.35546,2.51497
+2100,POVCOUNTSD,"Poverty Headcount , Sex Difference by Age",HDI Low,28.83,2.11639,2.2645
 2019,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,36.9,36.9,36.9
 2020,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,37.93,37.93,37.93
 2021,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,37.68,37.68,37.68
@@ -1475,252 +1475,252 @@ Year,indicator,description,hdi group,SDG Push No,JETSDG9,Base
 2098,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,0.09179,0.08712,0.96448
 2099,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,0.08253,0.07814,0.90074
 2100,POVRATE,"Poverty Rate, Sex Difference (Female minus male), percent",HDI Low,0.07418,0.0701,0.84252
-2019,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02,1.02283,1.02283
-2020,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02072,1.02072,1.02072
-2021,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01876,1.01876,1.01876
-2022,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01682,1.01682,1.01682
-2023,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01451,1.01451,1.01451
-2024,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01288,1.01292,1.01288
-2025,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01171,1.01168,1.01167
-2026,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01089,1.01082,1.01087
-2027,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01024,1.01012,1.01021
-2028,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00959,1.00946,1.00957
-2029,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00884,1.00879,1.00883
-2030,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00809,1.00818,1.00807
-2031,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00734,1.00764,1.0073
-2032,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00652,1.00702,1.00641
-2033,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00571,1.0064,1.00555
-2034,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00501,1.00579,1.00474
-2035,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00455,1.00539,1.00416
-2036,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00423,1.00493,1.0037
-2037,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00386,1.00453,1.00331
-2038,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00354,1.00421,1.003
-2039,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0033,1.004,1.00279
-2040,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00316,1.00393,1.00259
-2041,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00311,1.00399,1.00238
-2042,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00317,1.00416,1.0022
-2043,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00332,1.00441,1.00216
-2044,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00347,1.00465,1.00224
-2045,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00369,1.00484,1.00237
-2046,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00394,1.00509,1.00262
-2047,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0043,1.00541,1.00294
-2048,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00458,1.00565,1.00332
-2049,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00519,1.00596,1.00374
-2050,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00563,1.00627,1.00416
-2051,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0061,1.00633,1.00462
-2052,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00655,1.00644,1.00494
-2053,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00718,1.00654,1.00545
-2054,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00787,1.00621,1.00604
-2055,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00802,1.00556,1.00667
-2056,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00846,1.00583,1.00749
-2057,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00847,1.00686,1.00826
-2058,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00921,1.00898,1.00917
-2059,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01092,1.01188,1.01054
-2060,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01304,1.01493,1.01236
-2061,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01577,1.01846,1.01458
-2062,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0191,1.02255,1.01722
-2063,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02306,1.02664,1.01994
-2064,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01172,1.01546,1.02284
-2065,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0159,1.01948,1.02635
-2066,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02009,1.02453,1.02992
-2067,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02507,1.03018,1.03382
-2068,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.03068,1.03644,1.03814
-2069,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02871,1.03332,1.03411
-2070,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02531,1.02866,1.03229
-2071,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02055,1.02566,1.03066
-2072,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01423,1.02661,1.02911
-2073,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0108,1.03027,1.02769
-2074,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01144,1.02988,1.02615
-2075,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01128,1.03358,1.02419
-2076,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01304,1.04572,1.02185
-2077,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.022,1.05996,1.01914
-2078,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.03695,1.07556,1.01606
-2079,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.05494,1.0903,1.01242
-2080,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.07325,1.10769,1.00826
-2081,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.09282,1.12743,1.0035
-2082,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11143,1.1825,0.99777
-2083,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.16541,1.19911,0.99114
-2084,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.18419,1.21549,0.98391
-2085,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.19751,1.23187,0.976
-2086,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.20907,1.24827,0.97023
-2087,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.22175,1.26439,0.96578
-2088,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.23501,1.27958,0.9626
-2089,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.24745,1.29533,0.96115
-2090,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.25387,1.3103,0.9591
-2091,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.25944,1.32276,0.95834
-2092,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.26572,1.32855,0.96048
-2093,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.27279,1.33161,0.96306
-2094,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28117,1.17656,0.96821
-2095,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28513,1.17146,0.97676
-2096,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28567,1.16283,0.98862
-2097,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28275,1.15348,0.99951
-2098,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.12312,1.14092,1.01312
-2099,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11814,1.12889,1.02745
-2100,POVCOUNT,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11811,1.12412,1.04086
-2019,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13,1.13172,1.13172
-2020,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.12421,1.12421,1.12421
-2021,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11929,1.11929,1.11929
-2022,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11399,1.11399,1.11399
-2023,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10641,1.10641,1.10641
-2024,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10094,1.10135,1.10094
-2025,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09833,1.09845,1.09793
-2026,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.0977,1.09755,1.09716
-2027,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09834,1.09794,1.0975
-2028,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09918,1.09865,1.0981
-2029,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09958,1.09935,1.09822
-2030,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09992,1.10032,1.09817
-2031,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10024,1.10165,1.09806
-2032,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10035,1.10291,1.09765
-2033,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10062,1.10424,1.09733
-2034,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10138,1.10563,1.09717
-2035,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10273,1.10739,1.09751
-2036,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10464,1.1083,1.09821
-2037,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10564,1.10869,1.09919
-2038,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10606,1.10919,1.10029
-2039,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10667,1.10995,1.1015
-2040,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10768,1.11111,1.10197
-2041,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.1091,1.11273,1.10245
-2042,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11105,1.11521,1.10311
-2043,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11338,1.1181,1.10421
-2044,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11572,1.12085,1.10568
-2045,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11432,1.11922,1.10314
-2046,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11283,1.11757,1.10112
-2047,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11175,1.1162,1.09946
-2048,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11042,1.11459,1.09799
-2049,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10989,1.11161,1.0965
-2050,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.107,1.10795,1.09485
-2051,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10354,1.10306,1.09326
-2052,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09995,1.09848,1.09098
-2053,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09695,1.0945,1.08921
-2054,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09487,1.09323,1.08777
-2055,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09271,1.08818,1.08965
-2056,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09217,1.08869,1.09199
-2057,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09603,1.09135,1.09337
-2058,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09754,1.09836,1.09377
-2059,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10293,1.1082,1.09551
-2060,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10981,1.11858,1.09886
-2061,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11901,1.13092,1.1028
-2062,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13027,1.14538,1.10809
-2063,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.14392,1.16289,1.11495
-2064,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11464,1.12793,1.1209
-2065,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.12449,1.14152,1.12852
-2066,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13865,1.15955,1.13598
-2067,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.15575,1.18101,1.14443
-2068,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.17602,1.20592,1.15424
-2069,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.18565,1.21905,1.14409
-2070,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.1967,1.22785,1.14324
-2071,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.20421,1.23838,1.14257
-2072,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.21472,1.2479,1.1428
-2073,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22441,1.25439,1.14193
-2074,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.23126,1.25104,1.14158
-2075,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22563,1.25282,1.14105
-2076,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22694,1.25295,1.14042
-2077,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22735,1.24777,1.13984
-2078,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22312,1.24373,1.13941
-2079,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.21846,1.23979,1.13898
-2080,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22033,1.25788,1.13845
-2081,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.23772,1.28316,1.13792
-2082,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.26061,1.37105,1.13335
-2083,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.34177,1.40798,1.13101
-2084,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.37838,1.44591,1.12891
-2085,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.41726,1.48674,1.12648
-2086,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.45992,1.53187,1.12317
-2087,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.51094,1.58299,1.11929
-2088,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.56599,1.6406,1.11387
-2089,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.62774,1.69468,1.10895
-2090,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.68098,1.73333,1.10384
-2091,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.71725,1.76858,1.10169
-2092,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.73011,1.77972,1.10504
-2093,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.73971,1.78752,1.10861
-2094,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.74949,1.62978,1.11207
-2095,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.7563,1.62541,1.1159
-2096,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.75813,1.61391,1.13114
-2097,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.75433,1.60809,1.1357
-2098,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58574,1.5991,1.14147
-2099,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58145,1.59084,1.14632
-2100,POVCOUNT,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58636,1.59176,1.15095
-2019,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,32.98,32.98,32.98
-2020,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.99,33.99,33.99
-2021,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.82,33.82,33.82
-2022,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.77,33.77,33.77
-2023,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.45,34.45,34.45
-2024,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.82,34.55,34.82
-2025,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.28,34.1,34.55
-2026,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.29,33.21,33.71
-2027,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,32.02,32.02,32.61
-2028,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,30.86,30.9,31.59
-2029,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,29.91,29.88,30.78
-2030,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,29.06,28.9,30.1
-2031,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,28.29,27.92,29.51
-2032,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,27.58,26.98,29.03
-2033,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,26.87,26.06,28.57
-2034,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,26.09,25.18,28.11
-2035,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,25.25,24.29,27.61
-2036,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,24.34,23.38,27.06
-2037,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,23.39,22.58,26.45
-2038,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,22.55,21.79,25.84
-2039,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,21.71,21,25.21
-2040,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,20.87,20.19,24.53
-2041,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,20.01,19.34,23.86
-2042,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,19.12,18.41,23.19
-2043,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,18.23,17.48,22.48
-2044,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,17.36,16.59,21.73
-2045,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,16.5,15.76,20.98
-2046,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,15.67,14.98,20.2
-2047,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,14.86,14.25,19.43
-2048,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,14.09,13.55,18.7
-2049,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,13.39,12.9,18.02
-2050,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,12.73,12.29,17.41
-2051,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,12.11,11.77,16.83
-2052,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,11.53,11.29,16.29
-2053,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,10.98,10.83,15.78
-2054,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,10.43,10.09,15.29
-2055,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,9.8548,9.58538,14.81
-2056,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,9.32172,9.02452,14.32
-2057,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,8.49,8.37082,13.81
-2058,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,7.98017,7.63344,13.29
-2059,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,7.39429,6.88556,12.67
-2060,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,6.77413,6.18907,11.98
-2061,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,6.16048,5.56442,11.26
-2062,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,5.59012,5.01029,10.54
-2063,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,5.06816,4.45524,9.74684
-2064,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,4.44969,3.8727,9.17662
-2065,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.97539,3.4922,8.5822
-2066,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.59852,3.13962,8.02716
-2067,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.25252,2.81888,7.50936
-2068,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.93629,2.5345,7.01964
-2069,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.65218,2.26299,6.43232
-2070,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.37495,2.03895,6.00007
-2071,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.13721,1.84524,5.61569
-2072,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.9273,1.67159,5.23422
-2073,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.73881,1.5247,4.91805
-2074,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.5777,1.36355,4.62597
-2075,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.41017,1.23683,4.35609
-2076,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.27815,1.1158,4.10263
-2077,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.15204,1.0139,3.86266
-2078,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.04321,0.90474,3.632
-2079,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.93157,0.82745,3.41205
-2080,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.84784,0.75198,3.20286
-2081,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.7683,0.67413,3.00156
-2082,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.68765,0.49904,2.82299
-2083,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.50711,0.44703,2.64624
-2084,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.45155,0.40209,2.48267
-2085,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.40316,0.36214,2.32783
-2086,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.36009,0.32598,2.17581
-2087,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.31987,0.29276,2.03845
-2088,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.28458,0.26239,1.92319
-2089,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.25317,0.23572,1.81012
-2090,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.2256,0.21211,1.69566
-2091,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.20196,0.19111,1.58812
-2092,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.18179,0.17259,1.48807
-2093,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.16428,0.15611,1.39439
-2094,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.14906,0.12778,1.30736
-2095,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.13468,0.11528,1.22515
-2096,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.12085,0.10406,1.05813
-2097,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.10854,0.09331,0.98914
-2098,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.08815,0.08377,0.91995
-2099,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.07948,0.07537,0.85971
-2100,POVRATE,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.07166,0.06781,0.80469
+2019,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02,1.02283,1.02283
+2020,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02072,1.02072,1.02072
+2021,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01876,1.01876,1.01876
+2022,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01682,1.01682,1.01682
+2023,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01451,1.01451,1.01451
+2024,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01288,1.01292,1.01288
+2025,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01171,1.01168,1.01167
+2026,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01089,1.01082,1.01087
+2027,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01024,1.01012,1.01021
+2028,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00959,1.00946,1.00957
+2029,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00884,1.00879,1.00883
+2030,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00809,1.00818,1.00807
+2031,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00734,1.00764,1.0073
+2032,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00652,1.00702,1.00641
+2033,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00571,1.0064,1.00555
+2034,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00501,1.00579,1.00474
+2035,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00455,1.00539,1.00416
+2036,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00423,1.00493,1.0037
+2037,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00386,1.00453,1.00331
+2038,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00354,1.00421,1.003
+2039,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0033,1.004,1.00279
+2040,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00316,1.00393,1.00259
+2041,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00311,1.00399,1.00238
+2042,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00317,1.00416,1.0022
+2043,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00332,1.00441,1.00216
+2044,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00347,1.00465,1.00224
+2045,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00369,1.00484,1.00237
+2046,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00394,1.00509,1.00262
+2047,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0043,1.00541,1.00294
+2048,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00458,1.00565,1.00332
+2049,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00519,1.00596,1.00374
+2050,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00563,1.00627,1.00416
+2051,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0061,1.00633,1.00462
+2052,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00655,1.00644,1.00494
+2053,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00718,1.00654,1.00545
+2054,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00787,1.00621,1.00604
+2055,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00802,1.00556,1.00667
+2056,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00846,1.00583,1.00749
+2057,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00847,1.00686,1.00826
+2058,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.00921,1.00898,1.00917
+2059,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01092,1.01188,1.01054
+2060,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01304,1.01493,1.01236
+2061,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01577,1.01846,1.01458
+2062,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0191,1.02255,1.01722
+2063,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02306,1.02664,1.01994
+2064,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01172,1.01546,1.02284
+2065,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0159,1.01948,1.02635
+2066,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02009,1.02453,1.02992
+2067,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02507,1.03018,1.03382
+2068,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.03068,1.03644,1.03814
+2069,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02871,1.03332,1.03411
+2070,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02531,1.02866,1.03229
+2071,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.02055,1.02566,1.03066
+2072,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01423,1.02661,1.02911
+2073,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.0108,1.03027,1.02769
+2074,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01144,1.02988,1.02615
+2075,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01128,1.03358,1.02419
+2076,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.01304,1.04572,1.02185
+2077,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.022,1.05996,1.01914
+2078,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.03695,1.07556,1.01606
+2079,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.05494,1.0903,1.01242
+2080,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.07325,1.10769,1.00826
+2081,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.09282,1.12743,1.0035
+2082,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11143,1.1825,0.99777
+2083,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.16541,1.19911,0.99114
+2084,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.18419,1.21549,0.98391
+2085,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.19751,1.23187,0.976
+2086,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.20907,1.24827,0.97023
+2087,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.22175,1.26439,0.96578
+2088,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.23501,1.27958,0.9626
+2089,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.24745,1.29533,0.96115
+2090,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.25387,1.3103,0.9591
+2091,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.25944,1.32276,0.95834
+2092,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.26572,1.32855,0.96048
+2093,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.27279,1.33161,0.96306
+2094,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28117,1.17656,0.96821
+2095,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28513,1.17146,0.97676
+2096,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28567,1.16283,0.98862
+2097,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.28275,1.15348,0.99951
+2098,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.12312,1.14092,1.01312
+2099,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11814,1.12889,1.02745
+2100,POVCOUNTR,"Poverty Headcount Ratio, Female to Male by Age",HDI Low,1.11811,1.12412,1.04086
+2019,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13,1.13172,1.13172
+2020,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.12421,1.12421,1.12421
+2021,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11929,1.11929,1.11929
+2022,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11399,1.11399,1.11399
+2023,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10641,1.10641,1.10641
+2024,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10094,1.10135,1.10094
+2025,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09833,1.09845,1.09793
+2026,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.0977,1.09755,1.09716
+2027,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09834,1.09794,1.0975
+2028,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09918,1.09865,1.0981
+2029,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09958,1.09935,1.09822
+2030,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09992,1.10032,1.09817
+2031,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10024,1.10165,1.09806
+2032,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10035,1.10291,1.09765
+2033,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10062,1.10424,1.09733
+2034,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10138,1.10563,1.09717
+2035,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10273,1.10739,1.09751
+2036,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10464,1.1083,1.09821
+2037,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10564,1.10869,1.09919
+2038,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10606,1.10919,1.10029
+2039,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10667,1.10995,1.1015
+2040,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10768,1.11111,1.10197
+2041,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.1091,1.11273,1.10245
+2042,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11105,1.11521,1.10311
+2043,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11338,1.1181,1.10421
+2044,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11572,1.12085,1.10568
+2045,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11432,1.11922,1.10314
+2046,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11283,1.11757,1.10112
+2047,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11175,1.1162,1.09946
+2048,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11042,1.11459,1.09799
+2049,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10989,1.11161,1.0965
+2050,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.107,1.10795,1.09485
+2051,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10354,1.10306,1.09326
+2052,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09995,1.09848,1.09098
+2053,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09695,1.0945,1.08921
+2054,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09487,1.09323,1.08777
+2055,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09271,1.08818,1.08965
+2056,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09217,1.08869,1.09199
+2057,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09603,1.09135,1.09337
+2058,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.09754,1.09836,1.09377
+2059,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10293,1.1082,1.09551
+2060,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.10981,1.11858,1.09886
+2061,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11901,1.13092,1.1028
+2062,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13027,1.14538,1.10809
+2063,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.14392,1.16289,1.11495
+2064,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.11464,1.12793,1.1209
+2065,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.12449,1.14152,1.12852
+2066,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.13865,1.15955,1.13598
+2067,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.15575,1.18101,1.14443
+2068,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.17602,1.20592,1.15424
+2069,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.18565,1.21905,1.14409
+2070,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.1967,1.22785,1.14324
+2071,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.20421,1.23838,1.14257
+2072,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.21472,1.2479,1.1428
+2073,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22441,1.25439,1.14193
+2074,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.23126,1.25104,1.14158
+2075,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22563,1.25282,1.14105
+2076,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22694,1.25295,1.14042
+2077,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22735,1.24777,1.13984
+2078,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22312,1.24373,1.13941
+2079,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.21846,1.23979,1.13898
+2080,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.22033,1.25788,1.13845
+2081,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.23772,1.28316,1.13792
+2082,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.26061,1.37105,1.13335
+2083,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.34177,1.40798,1.13101
+2084,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.37838,1.44591,1.12891
+2085,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.41726,1.48674,1.12648
+2086,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.45992,1.53187,1.12317
+2087,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.51094,1.58299,1.11929
+2088,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.56599,1.6406,1.11387
+2089,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.62774,1.69468,1.10895
+2090,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.68098,1.73333,1.10384
+2091,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.71725,1.76858,1.10169
+2092,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.73011,1.77972,1.10504
+2093,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.73971,1.78752,1.10861
+2094,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.74949,1.62978,1.11207
+2095,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.7563,1.62541,1.1159
+2096,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.75813,1.61391,1.13114
+2097,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.75433,1.60809,1.1357
+2098,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58574,1.5991,1.14147
+2099,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58145,1.59084,1.14632
+2100,POVCOUNT25,"Poverty Headcount, Sex Difference (Female minus Male), Age 25-34, millions",HDI Low,1.58636,1.59176,1.15095
+2019,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,32.98,32.98,32.98
+2020,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.99,33.99,33.99
+2021,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.82,33.82,33.82
+2022,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.77,33.77,33.77
+2023,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.45,34.45,34.45
+2024,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.82,34.55,34.82
+2025,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,34.28,34.1,34.55
+2026,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,33.29,33.21,33.71
+2027,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,32.02,32.02,32.61
+2028,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,30.86,30.9,31.59
+2029,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,29.91,29.88,30.78
+2030,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,29.06,28.9,30.1
+2031,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,28.29,27.92,29.51
+2032,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,27.58,26.98,29.03
+2033,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,26.87,26.06,28.57
+2034,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,26.09,25.18,28.11
+2035,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,25.25,24.29,27.61
+2036,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,24.34,23.38,27.06
+2037,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,23.39,22.58,26.45
+2038,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,22.55,21.79,25.84
+2039,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,21.71,21,25.21
+2040,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,20.87,20.19,24.53
+2041,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,20.01,19.34,23.86
+2042,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,19.12,18.41,23.19
+2043,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,18.23,17.48,22.48
+2044,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,17.36,16.59,21.73
+2045,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,16.5,15.76,20.98
+2046,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,15.67,14.98,20.2
+2047,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,14.86,14.25,19.43
+2048,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,14.09,13.55,18.7
+2049,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,13.39,12.9,18.02
+2050,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,12.73,12.29,17.41
+2051,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,12.11,11.77,16.83
+2052,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,11.53,11.29,16.29
+2053,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,10.98,10.83,15.78
+2054,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,10.43,10.09,15.29
+2055,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,9.8548,9.58538,14.81
+2056,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,9.32172,9.02452,14.32
+2057,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,8.49,8.37082,13.81
+2058,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,7.98017,7.63344,13.29
+2059,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,7.39429,6.88556,12.67
+2060,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,6.77413,6.18907,11.98
+2061,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,6.16048,5.56442,11.26
+2062,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,5.59012,5.01029,10.54
+2063,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,5.06816,4.45524,9.74684
+2064,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,4.44969,3.8727,9.17662
+2065,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.97539,3.4922,8.5822
+2066,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.59852,3.13962,8.02716
+2067,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,3.25252,2.81888,7.50936
+2068,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.93629,2.5345,7.01964
+2069,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.65218,2.26299,6.43232
+2070,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.37495,2.03895,6.00007
+2071,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,2.13721,1.84524,5.61569
+2072,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.9273,1.67159,5.23422
+2073,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.73881,1.5247,4.91805
+2074,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.5777,1.36355,4.62597
+2075,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.41017,1.23683,4.35609
+2076,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.27815,1.1158,4.10263
+2077,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.15204,1.0139,3.86266
+2078,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,1.04321,0.90474,3.632
+2079,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.93157,0.82745,3.41205
+2080,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.84784,0.75198,3.20286
+2081,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.7683,0.67413,3.00156
+2082,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.68765,0.49904,2.82299
+2083,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.50711,0.44703,2.64624
+2084,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.45155,0.40209,2.48267
+2085,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.40316,0.36214,2.32783
+2086,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.36009,0.32598,2.17581
+2087,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.31987,0.29276,2.03845
+2088,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.28458,0.26239,1.92319
+2089,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.25317,0.23572,1.81012
+2090,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.2256,0.21211,1.69566
+2091,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.20196,0.19111,1.58812
+2092,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.18179,0.17259,1.48807
+2093,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.16428,0.15611,1.39439
+2094,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.14906,0.12778,1.30736
+2095,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.13468,0.11528,1.22515
+2096,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.12085,0.10406,1.05813
+2097,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.10854,0.09331,0.98914
+2098,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.08815,0.08377,0.91995
+2099,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.07948,0.07537,0.85971
+2100,POVRATESD,"Poverty Rate, Sex Difference (Female minus male), Ages 25-34, percent",HDI Low,0.07166,0.06781,0.80469
 2019,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Low,33.89,33.89,33.89
 2020,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Low,33.63,33.63,33.63
 2021,HLSTUNTCHL,Stunted children under 5 (rate) ,HDI Low,33.32,33.32,33.32
