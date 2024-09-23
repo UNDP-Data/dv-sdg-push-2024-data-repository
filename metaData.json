@@ -1,43 +1,43 @@
 [
   {
     "id": "ChildMort5Yrs",
-    "name": "Children Under 5 Mortality (Rate Per 1000 Live Births)",
-    "units": "Deaths per 1,000"
+    "name": "Children Under 5 Mortality Rate (Per 1,000 Live Births)",
+    "units": ""
   },
   {
     "id": "PovHeadcountF_Number",
-    "name": "Female Poverty Headcount (Number Of People)",
+    "name": "Female Poverty Headcount (Number of People)",
     "units": "Millions"
   },
   {
     "id": "SanitAccess_Number",
-    "name": "Improved Sanitation Access (Number Of People)",
+    "name": "Improved Sanitation Access (Number of People)",
     "units": "Millions"
   },
   {
     "id": "SanitAccessImproved",
     "name": "Improved Sanitation Access (Percent)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "WaterAccessImproved_Number",
-    "name": "Improved Water Access (Number Of People)",
+    "name": "Improved Water Access (Number of People)",
     "units": "Millions"
   },
   {
     "id": "WaterAccessImproved_Percent",
     "name": "Improved Water Access (Percent)",
-    "units": "Percent of population"
+    "units": ""
   },
   {
     "id": "MalnChild_Number",
-    "name": "Malnourished Children Under 5 (Number Of Children)",
+    "name": "Malnourished Children Under 5 (Number of Children)",
     "units": "Millions"
   },
   {
     "id": "MalnChild_Percent",
     "name": "Malnourished Children Under 5 (Percent)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "MalnPop_Number",
@@ -47,52 +47,52 @@
   {
     "id": "MalnPop_Percent",
     "name": "Malnourished Population (Percent)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "MaternalMortality",
-    "name": "Maternal Mortality (Ratio)",
-    "units": "Ratio"
+    "name": "Maternal Mortality Ratio",
+    "units": ""
   },
   {
     "id": "NeonatalMortality",
-    "name": "Neonatal Mortality Rate (Number Of Neonatal Deaths Per 1000 Live Births)",
-    "units": "Per Thous"
+    "name": "Neonatal Mortality Rate (Number of Neonatal Deaths Per 1000 Live Births)",
+    "units": ""
   },
   {
     "id": "InfantMortality",
     "name": "Infant Mortality- Deaths Per Thousand Live Births",
-    "units": "Per Thous"
+    "units": ""
   },
   {
     "id": "Pov190_Number",
-    "name": "Poverty <$1.90 Per Day (Number Of People)",
+    "name": "Population Living on Less than $1.90 per Day (Number of People)",
     "units": "Millions"
   },
   {
     "id": "Pov190_Percent",
-    "name": "Poverty <$1.90 Per Day (Percent Of Population)",
-    "units": "Percent of population"
+    "name": "Population Living on Less than $1.90 per Day(Percent of Population)",
+    "units": ""
   },
   {
     "id": "Pov215_Number",
-    "name": "Poverty <$2.15 Per Day (Number Of People)",
+    "name": "Population Living on Less than $2.15 per Day (Number of People)",
     "units": "Millions"
   },
   {
     "id": "Pov215_Percent",
-    "name": "Poverty <$2.15 Per Day (Percent Of Population)",
-    "units": "Percent"
+    "name": "Population Living on Less than $2.15 per Day (Percent of Population)",
+    "units": ""
   },
   {
     "id": "PrimaryEd_Percent",
     "name": "Primary Education Gross Completion Rate (Percent)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "SecondaryEd_Percent",
     "name": "Secondary Education Gross Completion Rate (Percent)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "PovHeadcountTotalSexDif",
@@ -101,28 +101,28 @@
   },
   {
     "id": "PovRateTotalSexDif",
-    "name": "Poverty Rate, Sex Difference (Female Minus Male), Percent",
-    "units": "Percent"
+    "name": "Poverty Rate, Sex Difference (Female Minus Male, Percent)",
+    "units": ""
   },
   {
     "id": "PovHeadcountRatioFtoM",
-    "name": "Poverty Headcount Ratio, Female To Male By Age",
-    "units": "Ratio"
+    "name": "Poverty Headcount Ratio (Female to Male, by Age)",
+    "units": ""
   },
   {
     "id": "PovHeadcountSexDif_25_34",
-    "name": "Poverty Headcount, Sex Difference (Female Minus Male), Age 25-34, Millions",
-    "units": "Millions"
+    "name": "Poverty Headcount, Sex Difference (Female Minus Male, Age 25-34, Millions)",
+    "units": ""
   },
   {
     "id": "PovRateSexDif_25_34",
-    "name": "Poverty Rate, Sex Difference (Female Minus Male), Ages 25-34, Percent",
-    "units": "Percent"
+    "name": "Poverty Rate, Sex Difference (Female Minus Male, Ages 25-34, Percent)",
+    "units": ""
   },
   {
     "id": "StuntedChild",
     "name": "Stunted Children Under 5 (Rate)",
-    "units": "Percent"
+    "units": ""
   },
   {
     "id": "ENP_Oil",
@@ -161,27 +161,27 @@
   },
   {
     "id": "CarbonEmissions",
-    "name": "Carbon Emissions Form Fossil Fuels",
+    "name": "Carbon Emissions from Fossil Fuels",
     "units": "Billion Tons"
   },
   {
     "id": "TempChange",
     "name": "Temperature Change Since 1990",
-    "units": "Degrees C"
+    "units": "°C"
   },
   {
     "id": "HDI",
-    "name": "Hdi-Undp Index",
+    "name": "Human Development Index (UNDP)",
     "units": "Index"
   },
   {
     "id": "GDPPCP",
-    "name": "Gdp Per Capita Ppp- Thousand Of Dollars",
+    "name": "GDP Per Capita (PPP, in Thousand Dollars)",
     "units": "Thousand 2017$"
   },
   {
     "id": "GDP_MER",
-    "name": "Gdp (Mer)-Trillion Dollars",
+    "name": "GDP (Market Exchange Rate, in trillion dollars)",
     "units": "Trillion 2017$"
   }
 ]
