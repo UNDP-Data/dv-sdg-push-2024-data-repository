@@ -1,0 +1,68 @@
+[
+    {
+      "id": "GDPPCP",
+      "name": "GDP per capita (2017 PPP)",
+      "units": "Thousand 2017$"
+    },
+    {
+      "id": "INCOMELT215LN",
+      "name": "Poverty headcount (<USD 2.15)",
+      "units": "Million People"
+    },
+    {
+      "id": "HDI",
+      "name": "Human Development Index",
+      "units": ""
+    },
+    {
+      "id": "ENP_oil",
+      "name": "Energy Production (Oil)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "ENP_gas",
+      "name": "Energy Production (Gas)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "ENP_coal",
+      "name": "Energy Production (Coal)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "ENP_hydro",
+      "name": "Energy Production (Hydro)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "ENP_nuclear",
+      "name": "Energy Production (Nuclear)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "ENP_other",
+      "name": "Energy Production (Other Renewable Sources)",
+      "units": "Billion BOE"
+    },
+    {
+      "id": "CARANN",
+      "name": "Carbon Emissions from Fossil Fuels",
+      "units": "Billion Tons"
+    },
+    {
+      "id": "INFMOR",
+      "name": "Infant Mortality",
+      "units": "Per Thousand"
+    },
+    {
+      "id": "MALNPOPP",
+      "name": "Malnutrition",
+      "units": "Percent"
+    },
+    {
+      "id": "SFINTLWARALL",
+      "name": "State of Fragility Index",
+      "units": ""
+    }
+  ]
+  
