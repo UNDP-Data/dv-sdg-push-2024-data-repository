@@ -1,0 +1,187 @@
+[
+    {
+      "id": "ChildMort5Yrs",
+      "name": "Children Under 5 Mortality (Rate Per 1000 Live Births)",
+      "units": ""
+    },
+    {
+      "id": "PovHeadcountF_Number",
+      "name": "Female Poverty Headcount (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "SanitAccess_Number",
+      "name": "Improved Sanitation Access (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "SanitAccessImproved",
+      "name": "Improved Sanitation Access (Percent)",
+      "units": ""
+    },
+    {
+      "id": "WaterAccessImproved_Number",
+      "name": "Improved Water Access (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "WaterAccessImproved_Percent",
+      "name": "Improved Water Access (Percent)",
+      "units": ""
+    },
+    {
+      "id": "MalnChild_Number",
+      "name": "Malnourished Children Under 5 (Number Of Children)",
+      "units": "Millions"
+    },
+    {
+      "id": "MalnChild_Percent",
+      "name": "Malnourished Children Under 5 (Percent)",
+      "units": ""
+    },
+    {
+      "id": "MalnPop_Number",
+      "name": "Malnourished Population (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "MalnPop_Percent",
+      "name": "Malnourished Population (Percent)",
+      "units": ""
+    },
+    {
+      "id": "MaternalMortality",
+      "name": "Maternal Mortality (Ratio)",
+      "units": ""
+    },
+    {
+      "id": "NeonatalMortality",
+      "name": "Neonatal Mortality Rate (Number Of Neonatal Deaths Per 1000 Live Births)",
+      "units": ""
+    },
+    {
+      "id": "InfantMortality",
+      "name": "Infant Mortality- Deaths Per Thousand Live Births",
+      "units": ""
+    },
+    {
+      "id": "Pov190_Number",
+      "name": "Poverty <$1.90 Per Day (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "Pov190_Percent",
+      "name": "Poverty <$1.90 Per Day (Percent Of Population)",
+      "units": ""
+    },
+    {
+      "id": "Pov215_Number",
+      "name": "Poverty <$2.15 Per Day (Number Of People)",
+      "units": "Millions"
+    },
+    {
+      "id": "Pov215_Percent",
+      "name": "Poverty <$2.15 Per Day (Percent Of Population)",
+      "units": ""
+    },
+    {
+      "id": "PrimaryEd_Percent",
+      "name": "Primary Education Gross Completion Rate (Percent)",
+      "units": ""
+    },
+    {
+      "id": "SecondaryEd_Percent",
+      "name": "Secondary Education Gross Completion Rate (Percent)",
+      "units": ""
+    },
+    {
+      "id": "PovHeadcountTotalSexDif",
+      "name": "Poverty Headcount, Sex Difference By Age",
+      "units": "Millions"
+    },
+    {
+      "id": "PovRateTotalSexDif",
+      "name": "Poverty Rate, Sex Difference (Female Minus Male), Percent",
+      "units": ""
+    },
+    {
+      "id": "PovHeadcountRatioFtoM",
+      "name": "Poverty Headcount Ratio, Female To Male By Age",
+      "units": ""
+    },
+    {
+      "id": "PovHeadcountSexDif_25_34",
+      "name": "Poverty Headcount, Sex Difference (Female Minus Male), Age 25-34, Millions",
+      "units": "Millions"
+    },
+    {
+      "id": "PovRateSexDif_25_34",
+      "name": "Poverty Rate, Sex Difference (Female Minus Male), Ages 25-34, Percent",
+      "units": ""
+    },
+    {
+      "id": "StuntedChild",
+      "name": "Stunted Children Under 5 (Rate)",
+      "units": ""
+    },
+    {
+      "id": "ENP_Oil",
+      "name": "Energy Production (Oil)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_Gas",
+      "name": "Energy Production (Gas)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_Coal",
+      "name": "Energy Production (Coal)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_Hydro",
+      "name": "Energy Production (Hydro)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_Nuclear",
+      "name": "Energy Production (Nuclear)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_OthRenew",
+      "name": "Energy Production (Other Renewable)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "ENP_Total",
+      "name": "Energy Production (Total)",
+      "units": "Bil BOE"
+    },
+    {
+      "id": "CarbonEmissions",
+      "name": "Carbon Emissions Form Fossil Fuels",
+      "units": "Billion Tons"
+    },
+    {
+      "id": "TempChange",
+      "name": "Temperature Change Since 1990",
+      "units": "Degrees C"
+    },
+    {
+      "id": "HDI",
+      "name": "HDI",
+      "units": ""
+    },
+    {
+      "id": "GDPPCP",
+      "name": "GDP Per Capita PPP - Thousand Of Dollars",
+      "units": "Thousand 2017$"
+    },
+    {
+      "id": "GDP_MER",
+      "name": "GDP (MER)-Trillion Dollars",
+      "units": "Trillion 2017$"
+    }
+  ]
