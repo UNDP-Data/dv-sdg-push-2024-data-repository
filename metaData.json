@@ -71,7 +71,7 @@
   },
   {
     "id": "Pov190_Percent",
-    "name": "Population Living on Less than $1.90 per Day(Percent of Population)",
+    "name": "Population Living on Less than $1.90 per Day (Percent of Population)",
     "units": ""
   },
   {
@@ -127,37 +127,37 @@
   {
     "id": "ENP_Oil",
     "name": "Energy Production (Oil)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_Gas",
     "name": "Energy Production (Gas)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_Coal",
     "name": "Energy Production (Coal)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_Hydro",
     "name": "Energy Production (Hydro)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_Nuclear",
     "name": "Energy Production (Nuclear)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_OthRenew",
     "name": "Energy Production (Other Renewable)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "ENP_Total",
     "name": "Energy Production (Total)",
-    "units": "Bil BOE"
+    "units": "Billion barrels of oil equivalent"
   },
   {
     "id": "CarbonEmissions",
@@ -171,7 +171,7 @@
   },
   {
     "id": "HDI",
-    "name": "Human Development Index (UNDP)",
+    "name": "Human Development Index",
     "units": "Index"
   },
   {
@@ -183,5 +183,45 @@
     "id": "GDP_MER",
     "name": "GDP (Market Exchange Rate, in trillion dollars)",
     "units": "Trillion 2017$"
+  },
+  {
+    "id": "Pov320_Number",
+    "name": "Population Living on Less than $3.20 per Day (Number of People)",
+    "units": "Millions"
+  },
+  {
+    "id": "Pov550_Number",
+    "name": "Population Living on Less than $5.50 per Day (Number of People)",
+    "units": "Millions"
+  },
+  {
+    "id": "Pov320_Percent",
+    "name": "Population Living on Less than $3.20 per Day (Percent of Population)",
+    "units": ""
+  },
+  {
+    "id": "Pov550_Percent",
+    "name": "Population Living on Less than $5.50 per Day (Percent of Population)",
+    "units": ""
+  },
+  {
+    "id": "ENDEM",
+    "name": "Total Energy Demand",
+    "units": "Billion barrels of oil equivalent"
+  },
+  {
+    "id": "ENDEM_per_capita",
+    "name": "Energy Demand per capita",
+    "units": "Barrels of oil equivalent"
+  },
+  {
+    "id": "ENDEM_per_capita",
+    "name": "Energy Efficiency: Energy Demand relative to GDP",
+    "units": "Barrels per thousand dollars"
+  },
+  {
+    "id": "CarbonEmissions_per_capita",
+    "name": "Carbon Emissions per capita",
+    "units": "Tons of Carbon"
   }
 ]
