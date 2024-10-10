@@ -12507,9 +12507,9 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 14.64,9.55098,9.29756,2060,NeonatalMortality,SSD
 14.07,9.09021,8.8068,2061,NeonatalMortality,SSD
 13.53,8.66219,8.34751,2062,NeonatalMortality,SSD
-13,8.25842,7.92093,2063,NeonatalMortality,SSD
+13.0,8.25842,7.92093,2063,NeonatalMortality,SSD
 12.49,7.8804,7.52271,2064,NeonatalMortality,SSD
-12,7.51726,7.15488,2065,NeonatalMortality,SSD
+12.0,7.51726,7.15488,2065,NeonatalMortality,SSD
 11.55,7.17052,6.8045,2066,NeonatalMortality,SSD
 11.11,6.83699,6.45973,2067,NeonatalMortality,SSD
 10.71,6.51665,6.11926,2068,NeonatalMortality,SSD

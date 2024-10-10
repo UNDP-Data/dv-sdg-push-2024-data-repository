@@ -6271,7 +6271,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 10.77,10.33,10.3,2056,MalnChild_Percent,IND
 10.51,10.1,10.07,2057,MalnChild_Percent,IND
 10.25,9.87649,9.84693,2058,MalnChild_Percent,IND
-10,9.65297,9.62362,2059,MalnChild_Percent,IND
+10.0,9.65297,9.62362,2059,MalnChild_Percent,IND
 9.7582,9.43308,9.40386,2060,MalnChild_Percent,IND
 9.51919,9.21701,9.18799,2061,MalnChild_Percent,IND
 9.28626,9.0026,8.97595,2062,MalnChild_Percent,IND
@@ -12496,7 +12496,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 23.1,15.01,14.94,2049,MalnChild_Percent,SSD
 22.57,14.44,14.34,2050,MalnChild_Percent,SSD
 22.03,13.87,13.69,2051,MalnChild_Percent,SSD
-21.45,13.23,13,2052,MalnChild_Percent,SSD
+21.45,13.23,13.0,2052,MalnChild_Percent,SSD
 20.86,12.59,12.27,2053,MalnChild_Percent,SSD
 20.27,11.9,11.54,2054,MalnChild_Percent,SSD
 19.68,11.22,10.81,2055,MalnChild_Percent,SSD
@@ -13229,7 +13229,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 20.8,17.51,18.93,2044,MalnChild_Percent,TCD
 20.54,17.13,18.64,2045,MalnChild_Percent,TCD
 20.2,16.76,18.32,2046,MalnChild_Percent,TCD
-19.82,16.33,18,2047,MalnChild_Percent,TCD
+19.82,16.33,18.0,2047,MalnChild_Percent,TCD
 19.32,15.89,17.66,2048,MalnChild_Percent,TCD
 18.77,15.32,17.33,2049,MalnChild_Percent,TCD
 18.27,14.77,16.95,2050,MalnChild_Percent,TCD
@@ -13239,7 +13239,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 17.07,13.21,15.1,2054,MalnChild_Percent,TCD
 16.69,12.88,14.53,2055,MalnChild_Percent,TCD
 16.14,12.46,13.94,2056,MalnChild_Percent,TCD
-15.52,12,13.35,2057,MalnChild_Percent,TCD
+15.52,12.0,13.35,2057,MalnChild_Percent,TCD
 14.79,11.53,12.75,2058,MalnChild_Percent,TCD
 14.11,11.01,12.16,2059,MalnChild_Percent,TCD
 13.49,10.54,11.57,2060,MalnChild_Percent,TCD

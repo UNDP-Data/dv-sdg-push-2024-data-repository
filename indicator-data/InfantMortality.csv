@@ -6243,7 +6243,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 21.33,20.79,20.79,2028,InfantMortality,IND
 20.52,19.87,19.87,2029,InfantMortality,IND
 19.74,18.98,18.96,2030,InfantMortality,IND
-19,18.13,18.08,2031,InfantMortality,IND
+19.0,18.13,18.08,2031,InfantMortality,IND
 18.27,17.31,17.24,2032,InfantMortality,IND
 17.57,16.54,16.45,2033,InfantMortality,IND
 16.93,15.82,15.73,2034,InfantMortality,IND
@@ -12474,7 +12474,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 58.65,56.5,56.53,2027,InfantMortality,SSD
 57.51,55.09,55.11,2028,InfantMortality,SSD
 56.34,53.37,53.43,2029,InfantMortality,SSD
-55,51.43,51.45,2030,InfantMortality,SSD
+55.0,51.43,51.45,2030,InfantMortality,SSD
 53.7,49.53,49.42,2031,InfantMortality,SSD
 52.57,47.86,47.51,2032,InfantMortality,SSD
 51.67,46.43,45.8,2033,InfantMortality,SSD
@@ -12485,7 +12485,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 48.25,40.29,39.35,2038,InfantMortality,SSD
 47.31,38.96,38.14,2039,InfantMortality,SSD
 46.34,37.68,37.03,2040,InfantMortality,SSD
-45.35,36.47,36,2041,InfantMortality,SSD
+45.35,36.47,36.0,2041,InfantMortality,SSD
 44.37,35.4,35.06,2042,InfantMortality,SSD
 43.4,34.29,34.12,2043,InfantMortality,SSD
 42.45,33.08,32.93,2044,InfantMortality,SSD
@@ -13223,7 +13223,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 50.06,45.27,46.48,2038,InfantMortality,TCD
 49.08,43.97,45.4,2039,InfantMortality,TCD
 47.91,42.87,44.39,2040,InfantMortality,TCD
-47,41.68,43.42,2041,InfantMortality,TCD
+47.0,41.68,43.42,2041,InfantMortality,TCD
 45.91,40.73,42.46,2042,InfantMortality,TCD
 45.13,39.72,41.51,2043,InfantMortality,TCD
 44.22,38.83,40.53,2044,InfantMortality,TCD

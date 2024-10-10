@@ -6268,7 +6268,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 52.6,54.12,54.17,2053,SecondaryEd_Percent,IND
 53.16,54.72,54.78,2054,SecondaryEd_Percent,IND
 53.72,55.33,55.39,2055,SecondaryEd_Percent,IND
-54.28,55.94,56,2056,SecondaryEd_Percent,IND
+54.28,55.94,56.0,2056,SecondaryEd_Percent,IND
 54.84,56.55,56.61,2057,SecondaryEd_Percent,IND
 55.4,57.16,57.23,2058,SecondaryEd_Percent,IND
 55.97,57.77,57.84,2059,SecondaryEd_Percent,IND
@@ -6287,7 +6287,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 63.31,65.62,65.75,2072,SecondaryEd_Percent,IND
 63.87,66.22,66.35,2073,SecondaryEd_Percent,IND
 64.44,66.82,66.95,2074,SecondaryEd_Percent,IND
-65,67.41,67.55,2075,SecondaryEd_Percent,IND
+65.0,67.41,67.55,2075,SecondaryEd_Percent,IND
 65.56,68.01,68.15,2076,SecondaryEd_Percent,IND
 66.12,68.6,68.74,2077,SecondaryEd_Percent,IND
 66.67,69.18,69.33,2078,SecondaryEd_Percent,IND
@@ -9976,7 +9976,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 38.84,43.33,43.8,2071,SecondaryEd_Percent,NGA
 39.22,43.84,44.34,2072,SecondaryEd_Percent,NGA
 39.61,44.36,44.88,2073,SecondaryEd_Percent,NGA
-40,44.88,45.42,2074,SecondaryEd_Percent,NGA
+40.0,44.88,45.42,2074,SecondaryEd_Percent,NGA
 40.4,45.41,45.97,2075,SecondaryEd_Percent,NGA
 40.79,45.94,46.52,2076,SecondaryEd_Percent,NGA
 41.2,46.48,47.08,2077,SecondaryEd_Percent,NGA
@@ -9988,7 +9988,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 43.7,49.82,50.52,2083,SecondaryEd_Percent,NGA
 44.13,50.39,51.11,2084,SecondaryEd_Percent,NGA
 44.56,50.96,51.7,2085,SecondaryEd_Percent,NGA
-45,51.54,52.28,2086,SecondaryEd_Percent,NGA
+45.0,51.54,52.28,2086,SecondaryEd_Percent,NGA
 45.44,52.12,52.88,2087,SecondaryEd_Percent,NGA
 45.88,52.7,53.47,2088,SecondaryEd_Percent,NGA
 46.32,53.28,54.06,2089,SecondaryEd_Percent,NGA
@@ -12472,7 +12472,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 17.42,17.45,17.45,2025,SecondaryEd_Percent,SSD
 17.32,17.41,17.41,2026,SecondaryEd_Percent,SSD
 17.17,17.3,17.3,2027,SecondaryEd_Percent,SSD
-17,17.17,17.17,2028,SecondaryEd_Percent,SSD
+17.0,17.17,17.17,2028,SecondaryEd_Percent,SSD
 16.84,17.05,17.05,2029,SecondaryEd_Percent,SSD
 16.66,16.92,16.92,2030,SecondaryEd_Percent,SSD
 16.48,16.79,16.79,2031,SecondaryEd_Percent,SSD
@@ -12496,7 +12496,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 14.5,16.73,16.69,2049,SecondaryEd_Percent,SSD
 14.65,17.06,17.01,2050,SecondaryEd_Percent,SSD
 14.82,17.4,17.34,2051,SecondaryEd_Percent,SSD
-15,17.76,17.7,2052,SecondaryEd_Percent,SSD
+15.0,17.76,17.7,2052,SecondaryEd_Percent,SSD
 15.2,18.15,18.08,2053,SecondaryEd_Percent,SSD
 15.42,18.56,18.49,2054,SecondaryEd_Percent,SSD
 15.65,18.98,18.91,2055,SecondaryEd_Percent,SSD
@@ -12516,7 +12516,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 19.96,25.76,25.66,2069,SecondaryEd_Percent,SSD
 20.31,26.31,26.23,2070,SecondaryEd_Percent,SSD
 20.65,26.86,26.8,2071,SecondaryEd_Percent,SSD
-21,27.42,27.38,2072,SecondaryEd_Percent,SSD
+21.0,27.42,27.38,2072,SecondaryEd_Percent,SSD
 21.26,27.99,27.98,2073,SecondaryEd_Percent,SSD
 21.56,28.56,28.59,2074,SecondaryEd_Percent,SSD
 21.85,29.14,29.21,2075,SecondaryEd_Percent,SSD
@@ -12544,7 +12544,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 30.32,43.19,43.22,2097,SecondaryEd_Percent,SSD
 30.77,43.81,43.8,2098,SecondaryEd_Percent,SSD
 31.22,44.41,44.38,2099,SecondaryEd_Percent,SSD
-31.68,45,44.94,2100,SecondaryEd_Percent,SSD
+31.68,45.0,44.94,2100,SecondaryEd_Percent,SSD
 7.93219,7.93219,7.93219,2019,SecondaryEd_Percent,STP
 8.79428,8.79428,8.79427,2020,SecondaryEd_Percent,STP
 9.52574,9.52574,9.52573,2021,SecondaryEd_Percent,STP

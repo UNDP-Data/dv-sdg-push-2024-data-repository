@@ -6263,7 +6263,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 17.72,16.92,16.88,2048,StuntedChild,IND
 17.37,16.62,16.57,2049,StuntedChild,IND
 17.03,16.32,16.28,2050,StuntedChild,IND
-16.7,16.04,16,2051,StuntedChild,IND
+16.7,16.04,16.0,2051,StuntedChild,IND
 16.38,15.77,15.73,2052,StuntedChild,IND
 16.08,15.5,15.46,2053,StuntedChild,IND
 15.78,15.25,15.21,2054,StuntedChild,IND
@@ -9946,7 +9946,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 18.34,17.07,16.93,2041,StuntedChild,NGA
 17.87,16.55,16.41,2042,StuntedChild,NGA
 17.42,16.07,15.92,2043,StuntedChild,NGA
-17,15.61,15.46,2044,StuntedChild,NGA
+17.0,15.61,15.46,2044,StuntedChild,NGA
 16.59,15.18,15.03,2045,StuntedChild,NGA
 16.19,14.78,14.61,2046,StuntedChild,NGA
 15.8,14.38,14.21,2047,StuntedChild,NGA
@@ -12502,7 +12502,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 20.26,13.86,13.69,2055,StuntedChild,SSD
 19.7,13.25,13.02,2056,StuntedChild,SSD
 19.13,12.62,12.36,2057,StuntedChild,SSD
-18.57,12,11.72,2058,StuntedChild,SSD
+18.57,12.0,11.72,2058,StuntedChild,SSD
 18.02,11.4,11.11,2059,StuntedChild,SSD
 17.46,10.83,10.52,2060,StuntedChild,SSD
 16.89,10.28,9.97431,2061,StuntedChild,SSD
@@ -13201,7 +13201,7 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region
 10.67,9.44133,9.33672,2098,StuntedChild,SYR
 10.46,9.19942,9.09257,2099,StuntedChild,SYR
 10.24,8.96455,8.85423,2100,StuntedChild,SYR
-28,28,28,2019,StuntedChild,TCD
+28.0,28.0,28.0,2019,StuntedChild,TCD
 27.73,27.73,27.73,2020,StuntedChild,TCD
 27.41,27.41,27.41,2021,StuntedChild,TCD
 27.12,27.12,27.12,2022,StuntedChild,TCD
