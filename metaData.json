@@ -215,7 +215,7 @@
     "units": "Barrels of oil equivalent"
   },
   {
-    "id": "ENDEM_per_capita",
+    "id": "ENDEM_GDP",
     "name": "Energy Efficiency: Energy Demand relative to GDP",
     "units": "Barrels per thousand dollars"
   },
